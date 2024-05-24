@@ -1,0 +1,82 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.runtimeconfig.json
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\WinForms.DataVisualization.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.Form1.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.csproj.GenerateResource.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.csproj.CopyComplete
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\refint\PBL_EC2_Lançamento.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\ref\PBL_EC2_Lançamento.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.runtimeconfig.json
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\WinForms.DataVisualization.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.Form1.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.csproj.GenerateResource.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.csproj.CopyComplete
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\refint\PBL_EC2_Lançamento.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\ref\PBL_EC2_Lançamento.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.runtimeconfig.json
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\WinForms.DataVisualization.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.Form1.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.csproj.GenerateResource.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.csproj.CopyComplete
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\refint\PBL_EC2_Lançamento.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\ref\PBL_EC2_Lançamento.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\PBL FORMS\PBL_EC2_Lançamento - Copia\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.Properties.Resources.resources
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.exe
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.deps.json
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.runtimeconfig.json
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.dll
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.pdb
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\WinForms.DataVisualization.dll
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.Form1.resources
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.Properties.Resources.resources
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.csproj.GenerateResource.cache
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.AssemblyInfo.cs
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.csproj.CopyComplete
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.dll
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\refint\PBL_EC2_Lançamento.dll
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.pdb
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.genruntimeconfig.cache
+C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\ref\PBL_EC2_Lançamento.dll
