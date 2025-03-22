@@ -80,3 +80,25 @@ C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS
 C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.pdb
 C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.genruntimeconfig.cache
 C:\Users\guilh\OneDrive - Fundação Salvador Arena\2 SEMESTRE\PBL - ALGORITIMOS_FÍSICA1\PBL FINAL\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\ref\PBL_EC2_Lançamento.dll
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.exe
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.deps.json
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.runtimeconfig.json
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.dll
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\PBL_EC2_Lançamento.pdb
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\WinForms.DataVisualization.Utilities.dll
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\bin\Debug\net7.0-windows\WinForms.DataVisualization.dll
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.csproj.AssemblyReference.cache
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.Form1.resources
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.Properties.Resources.resources
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.csproj.GenerateResource.cache
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.AssemblyInfoInputs.cache
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.AssemblyInfo.cs
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.csproj.CoreCompileInputs.cache
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.sourcelink.json
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_.9B82F81A.Up2Date
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.dll
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\refint\PBL_EC2_Lançamento.dll
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.pdb
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\PBL_EC2_Lançamento.genruntimeconfig.cache
+c:\Users\guilh\Desktop\GitHub\Project-Based-Learning-EC2\PBL_EC2_Lançamento Balístico\PBL_EC2_Lançamento\obj\Debug\net7.0-windows\ref\PBL_EC2_Lançamento.dll
